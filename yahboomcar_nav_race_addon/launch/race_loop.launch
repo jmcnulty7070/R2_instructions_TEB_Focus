@@ -1,0 +1,8 @@
+<launch>
+  <!-- Assumes navigation (move_base + TEB) is already running -->
+  <node pkg="yahboomcar_nav" type="waypoint_race.py" name="waypoint_race" output="screen">
+    <param name="waypoints_file" value="$(find yahboomcar_nav)/config/race_waypoints.yaml" />
+    <param name="loop" value="true" />
+    <param name="wait_time" value="1.0" />
+  </node>
+</launch>
