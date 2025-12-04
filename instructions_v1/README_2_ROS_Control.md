@@ -1,3 +1,0 @@
-# README 2 - ROS Control
-
-Content here...

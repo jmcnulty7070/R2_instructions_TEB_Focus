@@ -1,3 +1,0 @@
-# README 3 - Cartographer Mapping
-
-Content here...

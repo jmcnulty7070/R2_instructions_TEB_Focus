@@ -1,3 +1,0 @@
-# README 1 - Basics
-
-Content here...
